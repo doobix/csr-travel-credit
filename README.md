@@ -13,4 +13,4 @@ With the Chase Sapphire Reserve credit card, we get $300 worth of travel credit 
 
 ## How It Works
 
-The script looks for a table with the ID of "creditCardTransTable". Each row is checked for the string "TRAVEL CREDIT $300/YEAR". If that specific string is found, the dollar amount from that row is saved to a runnint total. After all the rows are checked, the final total is displayed.
+The script looks for a table with the ID of "creditCardTransTable". Each row is checked for the string "TRAVEL CREDIT $300/YEAR". If that specific string is found, the dollar amount from that row is saved to a running total. After all the rows are checked, the final total is displayed.
